@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 140px;
+}
+
+.label {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.combobox-container {
+    width: 100%;
+}
+
+
+/*# sourceMappingURL=stories-Form-stories.5bfea6d4.chunk.css.map*/
